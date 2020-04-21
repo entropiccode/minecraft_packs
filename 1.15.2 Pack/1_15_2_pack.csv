@@ -16,7 +16,6 @@ Bookshelf,5.4.12,https://media.forgecdn.net/files/2934/109/Bookshelf-1.15.2-5.4.
 Botania,r1.15-382,https://media.forgecdn.net/files/2922/131/Botania+r1.15-382.jar,mod
 Bountiful,3.1.0,https://media.forgecdn.net/files/2914/464/Bountiful-1.15.2-3.1.0.jar,mod
 Bow Infinity Fix,1.15.2-rv8,https://media.forgecdn.net/files/2869/902/BowInfinityFix-1.15.2-rv8.jar,mod
-Enhanced Mob Spanwers,1.5.4,https://media.forgecdn.net/files/2893/318/branders-enhanced-mob-spawners-v1.15.2-1.5.4.jar,mod
 Building Gadgets,3.3.4,https://media.forgecdn.net/files/2915/820/buildinggadgets-3.3.4.jar,mod
 Charm,1.5.6,https://media.forgecdn.net/files/2933/265/Charm-1.15.2-1.5.6.jar,mod
 Classic Bar,3.0.2,https://media.forgecdn.net/files/2909/167/classicbar-3.0.2.jar,mod
@@ -32,12 +31,11 @@ Cursed Earth,2.1,https://media.forgecdn.net/files/2856/994/cursedearth-2.1.jar,m
 Dark Utilities,3.0.3,https://media.forgecdn.net/files/2927/935/DarkUtilities-1.15.2-3.0.3.jar,mod
 Decorative Blocks,6d,https://media.forgecdn.net/files/2906/804/decorative_blocks-6d.jar,mod
 Dimensional Dungeons,1.051,https://media.forgecdn.net/files/2902/529/dimdungeons-1.051-forge-1.15.2.jar,mod
-Doggy Talents,1.15.2.3,https://media.forgecdn.net/files/2885/530/DoggyTalents-1.15.2-1.15.2.3.jar,mod
 Double Slabs,2.2.5,https://media.forgecdn.net/files/2935/432/DoubleSlabs-1.15-2.2.5.jar,mod
 Durability 101,1.15-0.0.3,https://media.forgecdn.net/files/2869/359/Durability101-1.15-0.0.3.jar,mod
-Open Elevator,1.7.0,https://media.forgecdn.net/files/2880/883/elevatorid-1.15.2-1.7.0.jar,mod
 Embellishcraft,2.1.1.0,https://media.forgecdn.net/files/2934/650/embellishcraft-1.15.2-2.1.1.0.jar,mod
 Enchantment Descriptions,2.0.8,https://media.forgecdn.net/files/2918/733/EnchantmentDescriptions-1.15.2-2.0.8.jar,mod
+Enhanced Mob Spanwers,1.5.4,https://media.forgecdn.net/files/2893/318/branders-enhanced-mob-spawners-v1.15.2-1.5.4.jar,mod
 Enigmatic Legacy,1.7.0,https://media.forgecdn.net/files/2931/944/EnigmaticLegacy-1.7.0.jar,mod
 Equipment Tooltips,1.4.0+11,https://media.forgecdn.net/files/2878/689/EquipmentTooltips-1.15.2-1.4.0%2B11.jar,mod
 Essentials,2.7.0,https://media.forgecdn.net/files/2872/551/essentials-1.15.2-2.7.0.jar,mod
@@ -45,11 +43,12 @@ Extra Buttons,3.0.0,https://media.forgecdn.net/files/2870/36/ExtraButtons-1.15.2
 Fast Leaf Decay,v22,https://media.forgecdn.net/files/2922/884/FastLeafDecay-v22.jar,mod
 Fish Traps,0.0.5,https://media.forgecdn.net/files/2887/948/fishtraps-forge-1.15.2-0.0.5.jar,mod
 Forge Endertech,6.0.2.1-build.0024,https://media.forgecdn.net/files/2932/861/ForgeEndertech-1.15.2-6.0.2.1-build.0024.jar,mod
+Gauges and Switches,1.2.2,https://media.forgecdn.net/files/2916/74/rsgauges-1.15.2-1.2.2.jar,mod
 Gravestone,1.17.3,https://media.forgecdn.net/files/2889/137/gravestone-1.17.3.jar,mod
 Inventory Sorter,17.0.0,https://media.forgecdn.net/files/2869/197/inventorysorter-1.15.2-17.0.0.jar,mod
 Iron Furnaces,2.0.1,https://media.forgecdn.net/files/2890/266/ironfurnaces-1.15.2-2.0.1.jar,mod
-ItemPhysic Lite,1.4.1,https://media.forgecdn.net/files/2914/11/ItemPhysicLite_v1.4.1_mc1.15.2.jar,mod
 Item Scroller,dev.20200412/file.215325/file,https://media.forgecdn.net/files/2928/334/itemscroller-forge-1.15.2-0.15.0-dev.20200412.215325.jar,mod
+ItemPhysic Lite,1.4.1,https://media.forgecdn.net/files/2914/11/ItemPhysicLite_v1.4.1_mc1.15.2.jar,mod
 JEI,6.0.0.3,https://media.forgecdn.net/files/2928/469/jei-1.15.2-6.0.0.3.jar,mod
 Journey Map,5.7.0beta1,https://media.forgecdn.net/files/2894/436/journeymap-1.15.2-5.7.0beta1.jar,mod
 KleesSlabs,8.0.0,https://media.forgecdn.net/files/2872/972/KleeSlabs_1.15.2-8.0.0.jar,mod
@@ -63,6 +62,7 @@ Mystical Agriculture,3.0.2,https://media.forgecdn.net/files/2927/505/MysticalAgr
 Natures Aura,23.5,https://media.forgecdn.net/files/2920/340/NaturesAura-23.5.jar,mod
 Neat,1.6-20,https://media.forgecdn.net/files/2915/89/Neat+1.6-20.jar,mod
 noRecipeBook,1.5.2,https://media.forgecdn.net/files/2869/178/noRecipeBook_v1.5.2formc1.15.2.jar,mod
+Open Elevator,1.7.0,https://media.forgecdn.net/files/2880/883/elevatorid-1.15.2-1.7.0.jar,mod
 Ore Excavation,1.7.151,https://media.forgecdn.net/files/2897/373/OreExcavation-1.7.151.jar,mod
 Packing Tape,0.9.5,https://media.forgecdn.net/files/2871/96/PackingTape-1.15.2-0.9.5.jar,mod
 Patchouli,1.2-31,https://media.forgecdn.net/files/2925/865/Patchouli-1.15.2-1.2-31.jar,mod
@@ -75,16 +75,15 @@ Quark,r2.1-231,https://media.forgecdn.net/files/2931/637/Quark-r2.1-231.jar,mod
 ReAuth,1.14-3.8.0,https://media.forgecdn.net/files/2859/264/ReAuth-1.14-3.8.0.jar,mod
 Reliquary,1.3.4.972,https://media.forgecdn.net/files/2934/163/Reliquary-1.15.2-1.3.4.972.jar,mod
 Rope Bridge,1.2,https://media.forgecdn.net/files/2857/21/ropebridge-1.15.1-1.2.jar,mod
-Gauges and Switches,1.2.2,https://media.forgecdn.net/files/2916/74/rsgauges-1.15.2-1.2.2.jar,mod
 Save My Stronghold,1.0.0,https://media.forgecdn.net/files/2915/278/SaveMyStronghold-1.15.2-1.0.0.jar,mod
 Shulkerbox Tooltip,1.9.3,https://media.forgecdn.net/files/2931/313/ShulkerTooltip-1.9.3.jar,mod
 Snad,1.8.5.10a,https://media.forgecdn.net/files/2926/107/snad-1.8.5.10a-1.15.2.jar,mod
 Storage Drawers,7.0.2,https://media.forgecdn.net/files/2887/674/StorageDrawers-1.15.2-7.0.2.jar,mod
-Titanium,2.3.7,https://media.forgecdn.net/files/2902/495/titanium-1.15.2-2.3.7.jar,mod
 The One Probe,2.0.2,https://media.forgecdn.net/files/2913/861/theoneprobe-1.15-2.0.2.jar,mod
+Titanium,2.3.7,https://media.forgecdn.net/files/2902/495/titanium-1.15.2-2.3.7.jar,mod
 Toast Control,3.0.1,https://media.forgecdn.net/files/2871/647/ToastControl-1.15.2-3.0.1.jar,mod
-Torcherino,10.0.1,https://media.forgecdn.net/files/2878/390/torcherino-10.0.1.jar,mod
 Torch Master,2.1.1,https://media.forgecdn.net/files/2873/677/torchmaster-2.1.1-rc0.jar,mod
+Torcherino,10.0.1,https://media.forgecdn.net/files/2878/390/torcherino-10.0.1.jar,mod
 Travellers Boots,1.3.2,https://media.forgecdn.net/files/2873/829/travellersboots-1.15.2-1.3.2.jar,mod
 Trinity Weapons,1.4.1,https://media.forgecdn.net/files/2875/803/TrinityWeapons-1.15.2-1.4.1.jar,mod
 Valhelsia Structures,15.0.2a,https://media.forgecdn.net/files/2905/438/valhelsia_structures-15.0.2a.jar,mod
