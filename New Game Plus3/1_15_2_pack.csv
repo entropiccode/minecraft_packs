@@ -42,10 +42,12 @@ Essentials,2.7.0,https://media.forgecdn.net/files/2872/551/essentials-1.15.2-2.7
 Extra Buttons,3.0.0,https://media.forgecdn.net/files/2870/36/ExtraButtons-1.15.2-3.0.0.jar,mod
 Fast Leaf Decay,v22,https://media.forgecdn.net/files/2922/884/FastLeafDecay-v22.jar,mod
 Fish Traps,0.0.5,https://media.forgecdn.net/files/2887/948/fishtraps-forge-1.15.2-0.0.5.jar,mod
+Flux Networks,5.0.1-2,https://media.forgecdn.net/files/2935/65/FluxNetworks-1.15.2-5.0.1-2.jar,mod
 Forge Endertech,6.0.2.1-build.0024,https://media.forgecdn.net/files/2932/861/ForgeEndertech-1.15.2-6.0.2.1-build.0024.jar,mod
 Gravestone,1.17.3,https://media.forgecdn.net/files/2889/137/gravestone-1.17.3.jar,mod
 Greater Eye of Ender,1.0.6,https://media.forgecdn.net/files/2938/893/GreaterEye-1.15.2-1.0.6.jar,mod
 Immersive Portals,0.16,https://media.forgecdn.net/files/2937/144/immersive-portals-0.16(forMc1.15withForge).jar,mod
+Industrial Foregoing,2.2.2,https://media.forgecdn.net/files/2902/496/industrial-foregoing-1.15.2-2.2.2-28d4a81.jar,mod
 Inventory Sorter,17.0.0,https://media.forgecdn.net/files/2869/197/inventorysorter-1.15.2-17.0.0.jar,mod
 Iron Furnaces,2.0.1,https://media.forgecdn.net/files/2890/266/ironfurnaces-1.15.2-2.0.1.jar,mod
 Item Scroller,dev.20200412/file.215325/file,https://media.forgecdn.net/files/2928/334/itemscroller-forge-1.15.2-0.15.0-dev.20200412.215325.jar,mod
@@ -55,6 +57,7 @@ Journey Map,5.7.0beta1,https://media.forgecdn.net/files/2894/436/journeymap-1.15
 KleesSlabs,8.0.0,https://media.forgecdn.net/files/2872/972/KleeSlabs_1.15.2-8.0.0.jar,mod
 Kottle,1.5.0,https://media.forgecdn.net/files/2895/68/Kottle-1.5.0.jar,mod
 LightOverlay,4.4,https://media.forgecdn.net/files/2931/777/LightOverlay-4.4.jar,mod
+Lollipop,1.0.14,https://media.forgecdn.net/files/2924/211/Lollipop-1.15.2-1.0.14.jar,mod
 malilib,0.10.0-dev.20+beta.1,https://media.forgecdn.net/files/2928/328/malilib-forge-1.15.2-0.10.0-dev.20%2Bbeta.1.jar,mod
 mapperbase,1.0.0.1,https://media.forgecdn.net/files/2918/396/mapperbase-1.15.2-1.0.0.1.jar,mod
 MixinBootstrap,1.0.2,https://media.forgecdn.net/files/2887/104/MixinBootstrap-1.0.2.jar,mod
@@ -71,11 +74,14 @@ Patchouli,1.2-31,https://media.forgecdn.net/files/2925/865/Patchouli-1.15.2-1.2-
 Phosphor,0.5.2+build4,https://media.forgecdn.net/files/2919/811/phosphor-forge-mc1.15.2-0.5.2%2Bbuild.4.jar,mod
 Placebo,3.0.2,https://media.forgecdn.net/files/2870/411/Placebo-1.15.2-3.0.2.jar,mod
 Portality,2.1.2,https://media.forgecdn.net/files/2873/803/portality-1.15.2-2.1.2-aaa257f.jar,mod
+Powah,1.1.12,https://media.forgecdn.net/files/2924/212/Powah-1.15.2-1.1.12.jar,mod
 Prefab,1.5.0.4,https://media.forgecdn.net/files/2933/174/prefab-1.5.0.4.jar,mod
-Pretty Pipes,1.2.0,https://media.forgecdn.net/files/2935/556/PrettyPipes-1.2.0.jar,mod
 ProjectE,PE1.0.3B,https://media.forgecdn.net/files/2898/245/ProjectE-1.15.2-PE1.0.3B.jar,mod
 Quark,r2.1-231,https://media.forgecdn.net/files/2931/637/Quark-r2.1-231.jar,mod
 ReAuth,1.14-3.8.0,https://media.forgecdn.net/files/2859/264/ReAuth-1.14-3.8.0.jar,mod
+Refined Pipes,0.4,https://media.forgecdn.net/files/2926/347/refinedpipes-0.4.jar,mod
+Refined Storage Addons,0.6.1,https://media.forgecdn.net/files/2871/855/refinedstorageaddons-0.6.1.jar,mod
+Refined Storage,1.8.1,https://media.forgecdn.net/files/2871/849/refinedstorage-1.8.1.jar,mod
 Reliquary,1.3.4.972,https://media.forgecdn.net/files/2934/163/Reliquary-1.15.2-1.3.4.972.jar,mod
 Rope Bridge,1.2,https://media.forgecdn.net/files/2857/21/ropebridge-1.15.1-1.2.jar,mod
 Save My Stronghold,1.0.0,https://media.forgecdn.net/files/2915/278/SaveMyStronghold-1.15.2-1.0.0.jar,mod
@@ -89,6 +95,8 @@ Torch Master,2.1.1,https://media.forgecdn.net/files/2873/677/torchmaster-2.1.1-r
 Torcherino,10.0.1,https://media.forgecdn.net/files/2878/390/torcherino-10.0.1.jar,mod
 Travellers Boots,1.3.2,https://media.forgecdn.net/files/2873/829/travellersboots-1.15.2-1.3.2.jar,mod
 Trinity Weapons,1.4.1,https://media.forgecdn.net/files/2875/803/TrinityWeapons-1.15.2-1.4.1.jar,mod
+Useful Railroads,1.3.2.21,https://media.forgecdn.net/files/2883/950/useful_railroads-1.15.2-1.3.2.21.jar,mod
+uteam Core,2.11.0.156,https://media.forgecdn.net/files/2895/173/u_team_core-1.15.2-2.11.0.156.jar,mod
 Valhelsia Structures,15.0.2a,https://media.forgecdn.net/files/2905/438/valhelsia_structures-15.0.2a.jar,mod
 Wall Jump,1.3.5,https://media.forgecdn.net/files/2899/166/walljump-forge-1.15.2-1.3.5.jar,mod
 Wetstone,1.2.0,https://media.forgecdn.net/files/2851/423/wetstone-1.2.0.jar,mod
