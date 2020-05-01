@@ -1,37 +1,44 @@
-println("Disabling ProjectE Armors");
+//Project E
 //Dark Matter Armor
-craftingTable.removeRecipe(<item:projecte:dm_helmet>);
-craftingTable.removeRecipe(<item:projecte:dm_chestplate>);
-craftingTable.removeRecipe(<item:projecte:dm_leggings>);
-craftingTable.removeRecipe(<item:projecte:dm_boots>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_armor_3>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_armor_2>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_armor_1>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_armor_0>);
 //Red Matter Armor
-craftingTable.removeRecipe(<item:projecte:rm_helmet>);
-craftingTable.removeRecipe(<item:projecte:rm_chestplate>);
-craftingTable.removeRecipe(<item:projecte:rm_leggings>);
-craftingTable.removeRecipe(<item:projecte:rm_boots>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_armor_3>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_armor_2>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_armor_1>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_armor_0>);
 //Gem Armor
-craftingTable.removeRecipe(<item:projecte:gem_helmet>);
-craftingTable.removeRecipe(<item:projecte:gem_chestplate>);
-craftingTable.removeRecipe(<item:projecte:gem_leggings>);
-craftingTable.removeRecipe(<item:projecte:gem_boots>);
-println("ProjectE Armors Disabled!");
-println("Disabling ProjectE Tools");
+craftingTable.removeRecipe(<projecte:item.pe_gem_armor_3>);
+craftingTable.removeRecipe(<projecte:item.pe_gem_armor_2>);
+craftingTable.removeRecipe(<projecte:item.pe_gem_armor_1>);
+craftingTable.removeRecipe(<projecte:item.pe_gem_armor_0>);
 //Dark Matter Tools
-craftingTable.removeRecipe(<item:projecte:dm_pick>);
-craftingTable.removeRecipe(<item:projecte:dm_axe>);
-craftingTable.removeRecipe(<item:projecte:dm_shovel>);
-craftingTable.removeRecipe(<item:projecte:dm_sword>);
-craftingTable.removeRecipe(<item:projecte:dm_hoe>);
-craftingTable.removeRecipe(<item:projecte:dm_shears>);
-craftingTable.removeRecipe(<item:projecte:dm_hammer>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_pick>;
+craftingTable.removeRecipe(<projecte:item.pe_dm_axe>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_shovel>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_sword>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_hoe>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_shears>);
+craftingTable.removeRecipe(<projecte:item.pe_dm_hammer>);
 //Red Matter Tools
-craftingTable.removeRecipe(<item:projecte:rm_pick>);
-craftingTable.removeRecipe(<item:projecte:rm_axe>);
-craftingTable.removeRecipe(<item:projecte:rm_shovel>);
-craftingTable.removeRecipe(<item:projecte:rm_sword>);
-craftingTable.removeRecipe(<item:projecte:rm_hoe>);
-craftingTable.removeRecipe(<item:projecte:rm_shears>);
-craftingTable.removeRecipe(<item:projecte:rm_hammer>);
-craftingTable.removeRecipe(<item:projecte:rm_katar>);
-craftingTable.removeRecipe(<item:projecte:rm_morning_star>);
-println("ProjectE Tools Disabled!");
+craftingTable.removeRecipe(<projecte:item.pe_rm_pick>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_axe>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_shovel>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_sword>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_hoe>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_shears>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_hammer>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_katar>);
+craftingTable.removeRecipe(<projecte:item.pe_rm_morning_star>);
+//Trinkets
+craftingTable.removeRecipe(<projecte:item.pe_time_watch>);
+//Collectors
+craftingTable.removeRecipe(<projecte:collector_mk1>);
+craftingTable.removeRecipe(<projecte:collector_mk2>);
+craftingTable.removeRecipe(<projecte:collector_mk3>);
+//Relays
+craftingTable.removeRecipe(<projecte:relay_mk1>);
+craftingTable.removeRecipe(<projecte:relay_mk2>);
+craftingTable.removeRecipe(<projecte:relay_mk3>);
