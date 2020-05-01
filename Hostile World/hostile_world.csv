@@ -2,6 +2,7 @@ Configs,05/01/2020-v1,,config
 Resources,05/01/2020-v1,,resources
 /dank/null,1.5.71,https://media.forgecdn.net/files/2725/991/DankNull-1.12.2-1.5.71.jar,mod
 Academy Craft,1.1.2,https://media.forgecdn.net/files/2724/775/AcademyCraft-1.1.2.jar,mod
+Admin Shop,1.5.1,https://media.forgecdn.net/files/2814/421/adminshop-1.5.1.jar,mod
 Advanced Hook Launchers,3.2.3.0,https://media.forgecdn.net/files/2856/117/AdHooks-1.12.2-3.2.3.0-build.0435.jar,mod
 AE2 Stuff,3.2.3.0,https://media.forgecdn.net/files/2491/32/ae2stuff-0.7.0.4-mc1.12.2.jar,mod
 Alternating Flux,0.7.0.4,https://media.forgecdn.net/files/2693/578/alternatingflux-0.12.2-2.jar,mod
@@ -45,16 +46,17 @@ Charm,1.3.7,https://media.forgecdn.net/files/2934/951/Charm-1.12.2-1.3.7.jar,mod
 Chisel,1.0.2.45,https://media.forgecdn.net/files/2915/375/Chisel-MC1.12.2-1.0.2.45.jar,mod
 Chisels & Bits,14.33,https://media.forgecdn.net/files/2720/655/chiselsandbits-14.33.jar,mod
 Chococraft 3,0.9.1.52,https://media.forgecdn.net/files/2473/983/chococraft_1.12.1-0.9.1.52.jar,mod
+Chunk Gen Limiter,1.1,https://media.forgecdn.net/files/2803/941/chunkgenlimiter-1.1.jar,mod
 Classic Bar,0.5.4,https://media.forgecdn.net/files/2861/996/classicbar-0.5.4.jar,mod
 Client Tweaks [Client],3.1.11,https://media.forgecdn.net/files/2624/712/ClientTweaks_1.12.2-3.1.11.jar,mod
 Cloud Boots,1.4.0,https://media.forgecdn.net/files/2659/645/CloudBoots-1.12.2-1.4.1.jar,mod
 CodeChicken Lib,3.2.3.358,https://media.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar,mod
 CoFH Core,4.6.6.1,https://media.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar,mod
 CoFH World,1.4.0.1,https://media.forgecdn.net/files/2920/434/CoFHWorld-1.12.2-1.4.0.1-universal.jar,mod
+Connected Textures Mod,1.0.2.31,https://media.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar,mod
 Controlled Burn,1.12.2.020,https://media.forgecdn.net/files/2926/488/Controlled+Burn-1.12.2.020.jar,mod
 Controlling,3.0.9,https://media.forgecdn.net/files/2926/366/Controlling-3.0.9.jar,mod
 Cooking for Blockheads,6.5.0,https://media.forgecdn.net/files/2862/651/CookingForBlockheads_1.12.2-6.5.0.jar,mod
-Connected Textures Mod,1.0.2.31,https://media.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar,mod
 CraftTweaker,4.1.20.562,https://media.forgecdn.net/files/2926/879/CraftTweaker2-1.12-4.1.20.562.jar,mod
 Dark Utilities,1.8.230,https://media.forgecdn.net/files/2813/586/DarkUtils-1.12.2-1.8.230.jar,mod
 Demagnetize,1.1.1,https://media.forgecdn.net/files/2834/566/demagnetize-1.12.2-1.1.1.jar,mod
@@ -146,7 +148,6 @@ Not Enough Wands,1.8.1,https://media.forgecdn.net/files/2705/633/notenoughwands-
 NotEnoughIDs,1.5.4.4,https://media.forgecdn.net/files/2695/44/NotEnoughIDs-1.5.4.4.jar,mod
 NuclearCraft,2.18r,https://media.forgecdn.net/files/2921/192/NuclearCraft-2.18r-1.12.2.jar,mod
 OMLib,3.1.4-249,https://media.forgecdn.net/files/2871/957/omlib-1.12.2-3.1.4-249.jar,mod
-The One Probe,1.4.28,https://media.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar,mod
 Open Glider,1.1.0,https://media.forgecdn.net/files/2464/501/OpenGlider-1.12.1-1.1.0.jar,mod
 Open Modular Passive Defense,3.1.0-61,https://media.forgecdn.net/files/2716/443/ompd-1.12.2-3.1.0-61.jar,mod
 Open Modular Turrets,3.1.8-369,https://media.forgecdn.net/files/2938/332/openmodularturrets-1.12.2-3.1.8-369.jar,mod
@@ -169,8 +170,8 @@ Pollution of the Realms,1.2.4.0,https://media.forgecdn.net/files/2943/765/AdPoth
 Portal Gun,7.1.0,https://media.forgecdn.net/files/2684/33/PortalGun-1.12.2-7.1.0.jar,mod
 Practical Logistics 2,3.0.8-11,https://media.forgecdn.net/files/2643/354/practicallogistics2-1.12.2-3.0.8-11.jar,mod
 Prefab,1.3.0.26,https://media.forgecdn.net/files/2651/659/prefab-1.3.0.26.jar,mod
-ProjectE,PE1.4.1,https://media.forgecdn.net/files/2702/991/ProjectE-1.12.2-PE1.4.1.jar,mod
 ProjectE Integration,2.3.1,https://media.forgecdn.net/files/2745/445/ProjectEIntegration-1.12.2-2.3.1.jar,mod
+ProjectE,PE1.4.1,https://media.forgecdn.net/files/2702/991/ProjectE-1.12.2-PE1.4.1.jar,mod
 Psi,r1.1-77,https://media.forgecdn.net/files/2724/967/Psi-r1.1-77.jar,mod
 Psionic Peripherals,1.1.0,https://media.forgecdn.net/files/2737/411/psipherals-1.1.0.jar,mod
 Quark,r1.6-179,https://media.forgecdn.net/files/2924/91/Quark-r1.6-179.jar,mod
@@ -183,11 +184,10 @@ Reborn Core,3.19.3.524,https://media.forgecdn.net/files/2926/584/RebornCore-1.12
 Recurrent Complex,1.4.8.2,https://media.forgecdn.net/files/2689/602/RecurrentComplex-1.4.8.2.jar,mod
 Redstone Arsenal,2.6.6.1,https://media.forgecdn.net/files/2939/416/RedstoneArsenal-1.12.2-2.6.6.1-universal.jar,mod
 Redstone Flux,2.1.1.1,https://media.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar,mod
-Redstonic,2.1,https://media.forgecdn.net/files/2625/44/redstonic-2.1.jar,mod
 Reliquary,1.3.4.796,https://media.forgecdn.net/files/2761/319/Reliquary-1.12.2-1.3.4.796.jar,mod
 Rex's Additional Structures,2.3.1,https://media.forgecdn.net/files/2810/589/Rex%27s-Additional-Structures-1.12.x-(v.2.3.1).jar,mod
-RFTools,7.73,https://media.forgecdn.net/files/2861/573/rftools-1.12-7.73.jar,mod
 RFTools Control,2.0.2,https://media.forgecdn.net/files/2705/813/rftoolsctrl-1.12-2.0.2.jar,mod
+RFTools,7.73,https://media.forgecdn.net/files/2861/573/rftools-1.12-7.73.jar,mod
 Roots,3.0.27,https://media.forgecdn.net/files/2941/514/Roots-1.12.2-3.0.27.jar,mod
 Rope Bridge,2.0.7,https://media.forgecdn.net/files/2465/994/ropebridge-1.12-2.0.7.jar,mod
 Rustic,1.1.2,https://media.forgecdn.net/files/2841/18/rustic-1.1.2.jar,mod
@@ -197,8 +197,10 @@ Shadowfacts' Forgelin,1.8.4,https://media.forgecdn.net/files/2785/465/Forgelin-1
 ShadowMC,3.8.0,https://media.forgecdn.net/files/2441/500/ShadowMC-1.12-3.8.0.jar,mod
 ShetiPhian-Core,3.5.9,https://media.forgecdn.net/files/2661/618/shetiphiancore-1.12.0-3.5.9.jar,mod
 Shoulder Surfing,1.15.1,https://media.forgecdn.net/files/2702/694/ShoulderSurfing-1.12.2-1.15.1.jar,mod
+Shulker Drop Two,1.1.1,https://media.forgecdn.net/files/2810/381/shulkerdt_1.12-1.1.1.jar,mod
 Signpost,1.08.3,https://media.forgecdn.net/files/2823/30/antiqueatlas-1.12.2-4.6.3.jar,mod
 Similsax Transtructors,1.0.21,https://media.forgecdn.net/files/2443/577/SimilsaxTranstructors-1.12-1.0.22.jar,mod
+Simple Inventory Starter,0.3,https://media.forgecdn.net/files/2505/822/SimpleInventoryStarter-0.3-1.12.2.jar,mod
 SimpleLogic Gates,0.5.6.1,https://media.forgecdn.net/files/2745/283/SimpleLogic-Gates-0.5.6.1.jar,mod
 SimpleLogic Wires,0.5.6.3,https://media.forgecdn.net/files/2754/601/SimpleLogic-Wires-0.5.6.3.jar,mod
 Simply Jetpacks 2,2.2.14.67,https://media.forgecdn.net/files/2789/696/SimplyJetpacks2-1.12.2-2.2.14.67.jar,mod
@@ -212,6 +214,7 @@ Stackie,1.6.0-48,https://media.forgecdn.net/files/2489/553/Stackie-1.12.2-1.6.0.
 Statues,1.0.1,https://media.forgecdn.net/files/2664/963/statues-rechiseled-1.12.2-1.0.1.jar,mod
 Steve's Carts 2,2.4.32.137,https://media.forgecdn.net/files/2834/651/StevesCarts-1.12.2-2.4.32.137.jar,mod
 Storage Drawers,5.4.1,https://media.forgecdn.net/files/2887/858/StorageDrawers-1.12.2-5.4.1.jar,mod
+Surge,2.0.77,https://media.forgecdn.net/files/2665/849/Surge-1.12.2-2.0.77.jar,mod
 Swing Through Glass,1.2.3,https://media.forgecdn.net/files/2508/268/stg-1.12.2-1.2.3.jar,mod
 Tesla Core Lib,1.0.17,https://media.forgecdn.net/files/2891/841/tesla-core-lib-1.12.2-1.0.17.jar,mod
 Thaumcraft Inventory Scanning,2.0.10,https://media.forgecdn.net/files/2559/89/ThaumicInventoryScanning_1.12.2-2.0.10.jar,mod
@@ -222,6 +225,7 @@ Thaumic Equivalence,1.0.5,https://media.forgecdn.net/files/2580/706/ThaumicEquiv
 Thaumic Gadgets,0.1.5.0,https://media.forgecdn.net/files/2636/599/Thaumic_Gadgets_1.12.2_0.1.5.1_tb.26.jar,mod
 Thaumic Tinkerer,5.0,https://media.forgecdn.net/files/2944/148/thaumictinkerer-1.12.2-5.0-008333d.jar,mod
 The Dragon Lib,5.3.0,https://media.forgecdn.net/files/2580/332/thedragonlib-1.12.2-5.3.0.jar,mod
+The One Probe,1.4.28,https://media.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar,mod
 Thermal Cultivation,0.3.6.1,https://media.forgecdn.net/files/2920/437/ThermalCultivation-1.12.2-0.3.6.1-universal.jar,mod
 Thermal Dynamics,2.5.6.1,https://media.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar,mod
 Thermal Expansion,5.5.7.1,https://media.forgecdn.net/files/2926/431/ThermalExpansion-1.12.2-5.5.7.1-universal.jar,mod
