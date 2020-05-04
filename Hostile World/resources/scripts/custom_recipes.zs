@@ -1,3 +1,5 @@
+import crafttweaker.item.IIngredient;
+
 //ProjectE
 //Transmutation Table
 recipes.remove(<projecte:item.pe_transmutation_tablet>);
