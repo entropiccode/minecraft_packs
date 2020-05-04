@@ -26,6 +26,8 @@ Baubley Heart Canisters,1.2.3,https://media.forgecdn.net/files/2682/612/baubley-
 BD Lib,1.14.3.12,https://media.forgecdn.net/files/2518/31/bdlib-1.14.3.12-mc1.12.2.jar,mod
 Better Animals Plus,9.0.1,https://media.forgecdn.net/files/2933/382/betteranimalsplus-1.12.2-9.0.1.jar,mod
 Better Builder's Wands,0.11.1,https://media.forgecdn.net/files/2443/194/BetterBuildersWands-1.12-0.11.1.245%2B69d0d70.jar,mod
+Better Placement [Client],1.0.0,https://media.forgecdn.net/files/2481/852/BetterPlacement-1.0.0-1.jar,mod
+Better Records,1.6.2,https://media.forgecdn.net/files/2930/159/BetterRecords-1.12.2-1.6.2.jar,mod
 Better Than Mending,1.1.2,https://media.forgecdn.net/files/2711/958/BetterThanMending-1.1.2.jar,mod
 BetterFPS,1.4.8,https://media.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar,mod
 Bewitchment,0.0.21.12,https://media.forgecdn.net/files/2938/103/bewitchment-1.12.2-0.0.21.12.jar,mod
@@ -37,6 +39,7 @@ Botania,r1.10-363,https://media.forgecdn.net/files/2846/950/Botania+r1.10-363.ja
 Botanic Additions,12.2.6,https://media.forgecdn.net/files/2939/405/BotanicAdditions-1.12.2-12.2.6.jar,mod
 Bountiful,2.2.1,https://media.forgecdn.net/files/2829/714/Bountiful-2.2.1.jar,mod
 Brandon's Core,2.4.18.210,https://media.forgecdn.net/files/2867/147/BrandonsCore-1.12.2-2.4.18.210-universal.jar,mod
+Builder's Guides,1.0.1,https://media.forgecdn.net/files/2519/529/buildersguides-1.12.2-1.0.1.jar,mod
 Building Gadgets,2.8.3,https://media.forgecdn.net/files/2928/313/BuildingGadgets-2.8.3.jar,mod
 Carry On,1.12.3,https://media.forgecdn.net/files/2818/975/CarryOn+MC1.12.2+v1.12.3.jar,mod
 Catwalks,4.0.45,https://media.forgecdn.net/files/2936/858/catwalks-1.12.2-4.0.45.jar,mod
@@ -47,7 +50,7 @@ Chisel,1.0.2.45,https://media.forgecdn.net/files/2915/375/Chisel-MC1.12.2-1.0.2.
 Chisels & Bits,14.33,https://media.forgecdn.net/files/2720/655/chiselsandbits-14.33.jar,mod
 Chococraft 3,0.9.1.52,https://media.forgecdn.net/files/2473/983/chococraft_1.12.1-0.9.1.52.jar,mod
 Chunk Gen Limiter,1.1,https://media.forgecdn.net/files/2803/941/chunkgenlimiter-1.1.jar,mod
-Classic Bar,0.5.4,https://media.forgecdn.net/files/2861/996/classicbar-0.5.4.jar,mod
+Classic Bar [Client],0.5.4,https://media.forgecdn.net/files/2861/996/classicbar-0.5.4.jar,mod
 Client Tweaks [Client],3.1.11,https://media.forgecdn.net/files/2624/712/ClientTweaks_1.12.2-3.1.11.jar,mod
 Cloud Boots,1.4.0,https://media.forgecdn.net/files/2659/645/CloudBoots-1.12.2-1.4.1.jar,mod
 CodeChicken Lib,3.2.3.358,https://media.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar,mod
@@ -57,14 +60,16 @@ Connected Textures Mod,1.0.2.31,https://media.forgecdn.net/files/2915/363/CTM-MC
 Controlled Burn,1.12.2.020,https://media.forgecdn.net/files/2926/488/Controlled+Burn-1.12.2.020.jar,mod
 Controlling,3.0.9,https://media.forgecdn.net/files/2926/366/Controlling-3.0.9.jar,mod
 Cooking for Blockheads,6.5.0,https://media.forgecdn.net/files/2862/651/CookingForBlockheads_1.12.2-6.5.0.jar,mod
+CoroUtil,1.2.37,https://media.forgecdn.net/files/2902/920/coroutil-1.12.1-1.2.37.jar,mod
 CraftTweaker,4.1.20.562,https://media.forgecdn.net/files/2926/879/CraftTweaker2-1.12-4.1.20.562.jar,mod
+Custom Starting Gear,1.2.0.9,https://media.forgecdn.net/files/2514/705/CustomStartingGear-1.12-1.2.0.9-universal.jar,mod
 Dark Utilities,1.8.230,https://media.forgecdn.net/files/2813/586/DarkUtils-1.12.2-1.8.230.jar,mod
 Demagnetize,1.1.1,https://media.forgecdn.net/files/2834/566/demagnetize-1.12.2-1.1.1.jar,mod
 Diet Hopper,1.1,https://media.forgecdn.net/files/2482/543/diethopper-1.1.jar,mod
 Doggy Talents,1.15.1.5,https://media.forgecdn.net/files/2930/764/DoggyTalents-1.12.2-1.15.1.5.jar,mod
 Draconic Evolution,2.3.25.351,https://media.forgecdn.net/files/2867/186/Draconic-Evolution-1.12.2-2.3.25.351-universal.jar,mod
-Durability 101,0.0.3,https://media.forgecdn.net/files/2736/55/Durability101-1.12-0.0.3.jar,mod
-Dynamic Surroundings,3.6.1.0,https://media.forgecdn.net/files/2922/489/DynamicSurroundings-1.12.2-3.6.1.0.jar,mod
+Durability 101 [Client],0.0.3,https://media.forgecdn.net/files/2736/55/Durability101-1.12-0.0.3.jar,mod
+Dynamic Surroundings [Client],3.6.1.0,https://media.forgecdn.net/files/2922/489/DynamicSurroundings-1.12.2-3.6.1.0.jar,mod
 Elevator Mod,1.3.14,https://media.forgecdn.net/files/2845/365/ElevatorMod-1.12.2-1.3.14.jar,mod
 Enchantment Descriptions,1.1.15,https://media.forgecdn.net/files/2689/502/EnchantmentDescriptions-1.12.2-1.1.15.jar,mod
 Ender IO,5.1.55,https://media.forgecdn.net/files/2858/816/EnderIO-1.12.2-5.1.55.jar,mod
@@ -72,6 +77,7 @@ EnderCore,0.5.73,https://media.forgecdn.net/files/2822/401/EnderCore-1.12.2-0.5.
 EnderStorage,2.4.6.137,https://media.forgecdn.net/files/2755/787/EnderStorage-1.12.2-2.4.6.137-universal.jar,mod
 Engineer's Decor,1.0.19,https://media.forgecdn.net/files/2891/811/engineersdecor-1.12.2-1.0.19.jar,mod
 Environmental Creepers,1.6.0,https://media.forgecdn.net/files/2851/525/environmentalcreepers-1.12.2-1.6.0.jar,mod
+Epic Siege Mod,13.167,https://media.forgecdn.net/files/2874/756/EpicSiegeMod-13.167.jar,mod
 Equivalent Integrations,0.4.6,https://media.forgecdn.net/files/2706/338/EquivalentIntegrations-0.4.6.jar,mod
 Exchangers,2.9,https://media.forgecdn.net/files/2903/998/Exchangers-1.12.2-2.9.jar,mod
 Expanded Equivalence,13r,https://media.forgecdn.net/files/2763/155/ExpandedEquivalence-1.12.2-13r.jar,mod
@@ -124,7 +130,6 @@ LemonLib,1.3.0,https://media.forgecdn.net/files/2639/879/lemonlib-1.12.2-1.3.0.j
 LibrarianLib,4.20,https://media.forgecdn.net/files/2836/225/librarianlib-1.12.2-4.20-release.jar,mod
 LLibrary,1.7.19,https://media.forgecdn.net/files/2704/186/llibrary-1.7.19-1.12.2.jar,mod
 LunatriusCore,1.2.0.42,https://media.forgecdn.net/files/2489/549/LunatriusCore-1.12.2-1.2.0.42-universal.jar,mod
-Lycanites Mobs,2.0.7.2,https://media.forgecdn.net/files/2935/745/lycanitesmobs-1.12.2-2.0.7.2.jar,mod
 Macaw's Bridges,1.0.4,https://media.forgecdn.net/files/2894/304/mcw-bridges-1.0.4-mc1.12.2.jar,mod
 Magical Psi,1.3.2,https://media.forgecdn.net/files/2678/409/MagicalPsi-1.3.2.jar,mod
 Mantle,1.3.3.55,https://media.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar,mod
@@ -179,7 +184,7 @@ Railcraft,12.0.0,https://media.forgecdn.net/files/2687/757/railcraft-12.0.0.jar,
 Random PSIdeas,2.4.2,https://media.forgecdn.net/files/2725/942/rpsideas-2.4.2.jar,mod
 RandomTweaks,2.7.1.0,https://media.forgecdn.net/files/2758/483/randomtweaks-1.12.2-2.7.1.0.jar,mod
 Real Bench,1.3.3,https://media.forgecdn.net/files/2505/261/RealBench-1.12.2-1.3.3.jar,mod
-ReAuth,3.6.0,https://media.forgecdn.net/files/2560/638/reauth-3.6.0.jar,mod
+ReAuth [Client],3.6.0,https://media.forgecdn.net/files/2560/638/reauth-3.6.0.jar,mod
 Reborn Core,3.19.3.524,https://media.forgecdn.net/files/2926/584/RebornCore-1.12.2-3.19.3.524-universal.jar,mod
 Recurrent Complex,1.4.8.2,https://media.forgecdn.net/files/2689/602/RecurrentComplex-1.4.8.2.jar,mod
 Redstone Arsenal,2.6.6.1,https://media.forgecdn.net/files/2939/416/RedstoneArsenal-1.12.2-2.6.6.1-universal.jar,mod
@@ -196,11 +201,10 @@ Serene Seasons,1.2.18,https://media.forgecdn.net/files/2799/213/SereneSeasons-1.
 Shadowfacts' Forgelin,1.8.4,https://media.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar,mod
 ShadowMC,3.8.0,https://media.forgecdn.net/files/2441/500/ShadowMC-1.12-3.8.0.jar,mod
 ShetiPhian-Core,3.5.9,https://media.forgecdn.net/files/2661/618/shetiphiancore-1.12.0-3.5.9.jar,mod
-Shoulder Surfing,1.15.1,https://media.forgecdn.net/files/2702/694/ShoulderSurfing-1.12.2-1.15.1.jar,mod
+Shoulder Surfing [Client],1.15.1,https://media.forgecdn.net/files/2702/694/ShoulderSurfing-1.12.2-1.15.1.jar,mod
 Shulker Drop Two,1.1.1,https://media.forgecdn.net/files/2810/381/shulkerdt_1.12-1.1.1.jar,mod
 Signpost,1.08.3,https://media.forgecdn.net/files/2823/30/antiqueatlas-1.12.2-4.6.3.jar,mod
 Similsax Transtructors,1.0.21,https://media.forgecdn.net/files/2443/577/SimilsaxTranstructors-1.12-1.0.22.jar,mod
-Simple Inventory Starter,0.3,https://media.forgecdn.net/files/2505/822/SimpleInventoryStarter-0.3-1.12.2.jar,mod
 SimpleLogic Gates,0.5.6.1,https://media.forgecdn.net/files/2745/283/SimpleLogic-Gates-0.5.6.1.jar,mod
 SimpleLogic Wires,0.5.6.3,https://media.forgecdn.net/files/2754/601/SimpleLogic-Wires-0.5.6.3.jar,mod
 Simply Jetpacks 2,2.2.14.67,https://media.forgecdn.net/files/2789/696/SimplyJetpacks2-1.12.2-2.2.14.67.jar,mod
@@ -225,6 +229,7 @@ Thaumic Equivalence,1.0.5,https://media.forgecdn.net/files/2580/706/ThaumicEquiv
 Thaumic Gadgets,0.1.5.0,https://media.forgecdn.net/files/2636/599/Thaumic_Gadgets_1.12.2_0.1.5.1_tb.26.jar,mod
 Thaumic Tinkerer,5.0,https://media.forgecdn.net/files/2944/148/thaumictinkerer-1.12.2-5.0-008333d.jar,mod
 The Dragon Lib,5.3.0,https://media.forgecdn.net/files/2580/332/thedragonlib-1.12.2-5.3.0.jar,mod
+The Erebus,1.0.31,https://media.forgecdn.net/files/2832/138/Erebus-1.0.31.jar,mod
 The One Probe,1.4.28,https://media.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar,mod
 Thermal Cultivation,0.3.6.1,https://media.forgecdn.net/files/2920/437/ThermalCultivation-1.12.2-0.3.6.1-universal.jar,mod
 Thermal Dynamics,2.5.6.1,https://media.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar,mod
@@ -242,6 +247,7 @@ Traveller's Boots,1.0.4,https://media.forgecdn.net/files/2837/34/travellersboots
 Treasure2!,1.11.1,https://media.forgecdn.net/files/2937/378/Treasure2-mc1.12.2-f14.23.5.2768-v1.11.1.jar,mod
 Trumpet Skeleton,1.0.2.1,https://media.forgecdn.net/files/2549/462/trumpetskeleton-1.12-1.0.2.1.jar,mod
 U Team Core,2.2.5.147,https://media.forgecdn.net/files/2873/110/u_team_core-1.12.2-2.2.5.147.jar,mod
+UniDict,2.9.6,https://media.forgecdn.net/files/2880/863/UniDict-1.12.2-2.9.6.jar,mod
 Unlimited Chisel Works,0.3.4,https://media.forgecdn.net/files/2850/337/UnlimitedChiselWorks-0.3.4.jar,mod
 Use Railroads,1.1.2.18,https://media.forgecdn.net/files/2876/410/useful_railroads-1.12.2-1.1.2.18.jar,mod
 Varied Commodities,1.0,https://media.forgecdn.net/files/2830/501/VariedCommodities_1.12.2(21nov19).jar,mod
@@ -252,3 +258,5 @@ Wetstone,1.0,https://media.forgecdn.net/files/2516/817/wetstone-1.0.jar,mod
 WirelessRedstone-CBE,2.3.2.33,https://media.forgecdn.net/files/2755/798/WR-CBE-1.12.2-2.3.2.33-universal.jar,mod
 With Sprinkles,1.10,https://media.forgecdn.net/files/2493/411/With+Sprinkles-1.10-1.12.jar,mod
 Woot,1.4.11,https://media.forgecdn.net/files/2712/670/woot-1.12.2-1.4.11.jar,mod
+World Handler,2.2.2,https://media.forgecdn.net/files/2694/758/WorldHandler-1.12.2-2.2.2.jar,mod
+Zombie Awareness,1.11.16,https://media.forgecdn.net/files/2663/393/zombieawareness-1.12.1-1.11.16.jar,mod
