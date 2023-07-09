@@ -4,9 +4,13 @@
 1. Place PackUpdate jar file in the root of the Modpack folder. Placed correctly, the root should look something like this:
 
 > .minecraft/
+> 
 > .packignore
+> 
 > instance.cfg
+> 
 > mmc-pack.json
+> 
 > PackUpdate.jar
 
 2. In MultiMC, select the modpack instance and click **Edit Instance**.
