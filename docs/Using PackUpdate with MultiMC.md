@@ -21,4 +21,5 @@
   - instance.cfg
   - mmc-pack.json
   - PackUpdate.jar
+
   The .minecraft folder does not need to be checked, as MultiMC will generate that folder automatically and PackUpdate will provided the necessary file structure for any extra folders needed.
