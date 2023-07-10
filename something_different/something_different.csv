@@ -1,7 +1,7 @@
 Configs,0.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/config.zip,config,,
 Additional Config Folders,0.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/extra_config.zip,resources,,
 Resource Packs,0.0.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/resourcepacks.zip,resources,,disable_integrity
-Shader Packs,0.0.1,https://drive.google.com/uc?id=1NDIkVfHJiaBU7eNEq6aSiUSLo0bynQeq&export=download,resources,,disable_integrity
+Shader Packs,0.1,https://drive.google.com/uc?export=download&id=1NDIkVfHJiaBU7eNEq6aSiUSLo0bynQeq,resources,,disable_integrity
 [CLIENT] Ambient Sounds,5.2.13,https://drive.google.com/file/d/1NONQbPI02Dw9tQ3qnzAwxBwqVB-Qtn2c/view?usp=sharing,mod,,
 [CLIENT] Auto Third Person,1.19.2-2,https://drive.google.com/file/d/1ne3mWX0jMj03UzRZB3Tr9TVq6XgPyl9T/view?usp=sharing,mod,,
 [CLIENT] Bad Wither No Cookie,3.14.1,https://drive.google.com/file/d/14ScX0sCbU6jyW0Pb28KvzH0LGdTfS3uP/view?usp=sharing,mod,,
