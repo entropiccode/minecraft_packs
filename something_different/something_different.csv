@@ -79,7 +79,7 @@ collective,6.62,https://cdn.modrinth.com/data/e0M1UDsY/versions/aBtrJprE/collect
 comforts,6.0.5,https://cdn.modrinth.com/data/SaCpeal4/versions/eny6SErU/comforts-forge-6.0.5%2B1.19.2.jar,mod,,
 common_capabilities,2.9.0,https://cdn.modrinth.com/data/oFXrCkDI/versions/UVesU3yH/CommonCapabilities-1.19.2-2.9.0.jar,mod,,
 companion,3.1.2,https://cdn.modrinth.com/data/4w0EzGRW/versions/6UDLDwOP/Companion-1.19.2-forge-3.1.2.jar,mod,,
-configured,2.1.1,https://www.curseforge.com/api/v1/mods/457570/files/4462894/download,mod,,
+configured,2.1.1,https://www.curseforge.com/api/v1/mods/457570/files/4462837/download,mod,,
 connected_glass,1.1.6,https://cdn.modrinth.com/data/DghO0R02/versions/gVaT2ypD/connectedglass-1.1.6-forge-mc1.19.jar,mod,,
 connectivity,4.2,https://www.curseforge.com/api/v1/mods/470193/files/4521440/download,mod,,
 construction_wand,2.1,https://cdn.modrinth.com/data/bV2crgLh/versions/aHdfYfXB/constructionwand-1.19.2-2.10.jar,mod,,
@@ -342,7 +342,7 @@ transmog,1.2.2,https://cdn.modrinth.com/data/Th33t82F/versions/kEVK2G9s/transmog
 trash_cans,1.0.18,https://cdn.modrinth.com/data/4QrnfueM/versions/wwDGSLqc/trashcans-1.0.18-forge-mc1.19.jar,mod,,
 travel_anchors,4.1.2,https://cdn.modrinth.com/data/M2mzwfek/versions/dkWevEeq/TravelAnchors-1.19.2-4.1.2.jar,mod,,
 travelers_titles,3.1.2,https://cdn.modrinth.com/data/JtifUr64/versions/nIfqKsvT/TravelersTitles-1.19.2-Forge-3.1.2.jar,mod,,client_only
-darkness,2.0.101,https://cdn.modrinth.com/data/Ja7zPEaN/versions/Jknh5xMh/darkness-forge-mc119-2.0.101.jar,mod,,client_only
+true_darkness,2.0.101,https://cdn.modrinth.com/data/Ja7zPEaN/versions/Jknh5xMh/darkness-forge-mc119-2.0.101.jar,mod,,client_only
 twigs,3.0.1,https://cdn.modrinth.com/data/RG50cUrX/versions/3vp46egv/twigs-forge-1.19.2-3.0.1.jar,mod,,
 twilight_forest,4.2.1518,https://www.curseforge.com/api/v1/mods/227639/files/4389567/download,mod,,
 universal_enchants,4.2.15,https://cdn.modrinth.com/data/DT56YDir/versions/N4CkR58u/UniversalEnchants-v4.2.15-1.19.2-Forge.jar,mod,,
