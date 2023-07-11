@@ -112,7 +112,7 @@ dark_utilities,13.1.9,https://cdn.modrinth.com/data/CkqTAIaP/versions/uqIswic9/D
 dash,1.1.1,https://www.curseforge.com/api/v1/mods/370782/files/3905146/download,mod,,
 decorative_blocks,3.0.0,https://www.curseforge.com/api/v1/mods/362528/files/3941638/download,mod,,
 deepslate_cutting,1.5.0,https://cdn.modrinth.com/data/IiuFShHs/versions/NCerf3v5/deepslatecutting-forge-1.5.0.jar,mod,,
-default_settings,4.0.5,https://www.curseforge.com/api/v1/mods/318012/files/4439561/download,mod,,client_only
+default_options,15.0.2,https://cdn.modrinth.com/data/WEg59z5b/versions/wRqU3JuA/defaultoptions-forge-1.19-15.0.2.jar,mod,,client_only
 ding,1.4.1,https://cdn.modrinth.com/data/UEtTD3gP/versions/ziTLYmPV/Ding-1.19.2-Forge-1.4.1.jar,mod,,client_only
 dismount_entity,3,https://cdn.modrinth.com/data/H7N61Wcl/versions/K14XRRBk/dismountentity-1.19.2-3.0.jar,mod,,
 display_case,1.0.3,https://cdn.modrinth.com/data/cSIsh4gX/versions/DMaX03ZW/Display%20Case-forge-1.19-1.0.3.jar,mod,,
@@ -196,7 +196,6 @@ italian_delight,1.5,https://cdn.modrinth.com/data/CT0O8jbT/versions/T1zI8ke3/Ita
 item_filters,1902.2.9.51,https://www.curseforge.com/api/v1/mods/309674/files/4553326/download,mod,,
 jade,8.8.1,https://cdn.modrinth.com/data/nvQzSEkH/versions/JSi5dyS2/Jade-1.19.1-forge-8.8.1.jar,mod,,
 jade_addons,3.5.0,https://cdn.modrinth.com/data/xuDOzCLy/versions/zTuVZQvR/JadeAddons-1.19.2-forge-3.5.0.jar,mod,,
-jcplugin,4.0.4,https://www.curseforge.com/api/v1/mods/659192/files/4573148/download,mod,,client_only
 jei,11.6.0.1016,https://cdn.modrinth.com/data/u6dRKJwZ/versions/YWrLRDfT/jei-1.19.2-forge-11.6.0.1016.jar,mod,,
 journey_map,5.9.7,https://cdn.modrinth.com/data/lfHFW1mp/versions/WEHaD7ed/journeymap-1.19.2-5.9.7-forge.jar,mod,,
 journey_map_integration,0.13.33,https://cdn.modrinth.com/data/M1ZKbfkJ/versions/IPxXYSZY/jmi-forge-1.19.2-0.13-33.jar,mod,,
