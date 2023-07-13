@@ -1,4 +1,8 @@
-configs,0.4,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/config.zip,config,,
+configs,0.5,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/config.zip,config,,
+defaultconfigs,0.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/defaultconfigs.zip,,,
+kubejs,0.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/kubejs.zip,,,
+packmenu,0.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/packmenu.zip,,,
+patchouli_books,0.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/patchouli_books.zip,,,
 additional_config,0.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/extra_config.zip,resources,,
 resource_packs,0.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/resourcepacks.zip,resources,,disable_integrity
 shader_complimentary_reimagined,0.1.1,https://github.com/entropiccode/minecraft_packs/raw/master/something_different/shader_ComplementaryReimagined_r1.2.2.zip,resources,,disable_integrity
@@ -160,6 +164,7 @@ fog_looks_good_now,1.1.2,https://cdn.modrinth.com/data/Bno70aWr/versions/uw4XHhf
 forge_endertech,10.0.6.1.0897,https://www.curseforge.com/api/v1/mods/244844/files/4601207/download,mod,,
 fox_glow,1.5.0,https://cdn.modrinth.com/data/3rGhEp20/versions/TldrGJZH/foxglow-1.5.0%2Bforge-1.19.2.jar,mod,,
 framed_blocks,6.8.4,https://www.curseforge.com/api/v1/mods/441647/files/4565543/download,mod,,
+framed_compacting_drawers,5.2.1,https://www.curseforge.com/api/v1/mods/376351/files/4459815/download,mod,,
 framework,0.4.2,https://www.curseforge.com/api/v1/mods/549225/files/4287474/download,mod,,
 friendly_fire,14.0.4,https://cdn.modrinth.com/data/FTaA4pRW/versions/PzAKSkmT/FriendlyFire-Forge-1.19.2-14.0.4.jar,mod,,
 ftb_chunks,1902.3.22.271,https://www.curseforge.com/api/v1/mods/314906/files/4584683/download,mod,,
@@ -313,6 +318,7 @@ spirit,2.2.6,https://cdn.modrinth.com/data/b1LdOZlE/versions/MVbFnXuY/spirit-for
 starlight,1.1.1.cf5b10b,https://cdn.modrinth.com/data/iRfIGC1s/versions/1.1.1%2B1.19/starlight-1.1.1%2Bforge.cf5b10b.jar,mod,,
 starter_kit,5.2,https://cdn.modrinth.com/data/6L3ydNi8/versions/pLNsi6nl/starterkit-1.19.2-5.2.jar,mod,,
 step,1.2.1,https://www.curseforge.com/api/v1/mods/374371/files/3905148/download,mod,,
+storage_drawers,11.1.2,https://www.curseforge.com/api/v1/mods/223852/files/3884263/download,mod,,
 storage_labels,1.9,https://cdn.modrinth.com/data/x6r7yhfi/versions/A7Lb3NKW/labels-1.19.2-1.9.jar,mod,,
 structory,1.3.1a,https://www.curseforge.com/api/v1/mods/636540/files/4441631/download,mod,,
 structory_towers,1.0.2,https://www.curseforge.com/api/v1/mods/783522/files/4441351/download,mod,,
@@ -366,5 +372,3 @@ yungs_better_strongholds,3.2.0,https://cdn.modrinth.com/data/kidLKymU/versions/a
 yungs_better_witch_huts,2.1.0,https://cdn.modrinth.com/data/t5FRdP87/versions/rAwSL8Wn/YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar,mod,,
 yungs_bridges,3.1.0,https://cdn.modrinth.com/data/Ht4BfYp6/versions/rgVgefNE/YungsBridges-1.19.2-Forge-3.1.0.jar,mod,,
 yungs_extras,3.1.0,https://cdn.modrinth.com/data/ZYgyPyfq/versions/Ltax470w/YungsExtras-1.19.2-Forge-3.1.0.jar,mod,,
-storage_drawers,11.1.2,https://www.curseforge.com/api/v1/mods/223852/files/3884263/download,mod,,
-framed_compacting_drawers,5.2.1,https://www.curseforge.com/api/v1/mods/376351/files/4459815/download,mod,,
