@@ -254,7 +254,7 @@ nether_portal_fix,10.0.1,https://cdn.modrinth.com/data/nPZr02ET/versions/kpXZdI4
 nethers_delight,3,https://www.curseforge.com/api/v1/mods/496394/files/3971576/download,mod,,
 no_chat_reports,1.5.1,https://cdn.modrinth.com/data/qQyHxfxd/versions/RNAG69Zu/NoChatReports-FORGE-1.19.2-v1.5.1.jar,mod,,
 no_mo_wanderer,1.3.11,https://www.curseforge.com/api/v1/mods/354428/files/4621979/download,mod,,
-no_night_vision_flashing,1.5.0,https://cdn.modrinth.com/data/o9s5PfpG/versions/ubhPEB9i/no_nv_flash-1.19.2-1.5.0.3.jar,mod,,client_only
+no_night_vision_flashing,1.5.0,https://cdn.modrinth.com/data/o9s5PfpG/versions/ubhPEB9i/no_nv_flash-1.19.2-1.5.0.3.jar,mod,,client_only;optional
 not_enough_crashes,4.2.1,https://cdn.modrinth.com/data/yM94ont6/versions/D7Tg80lr/notenoughcrashes-4.2.1%2B1.19.2-forge.jar,mod,,
 nullscape,1.2.1a,https://cdn.modrinth.com/data/LPjGiSO4/versions/Z04FxO0c/Nullscape_1.19.3_v1.2.1a.jar,mod,,
 observable,3.3.1,https://cdn.modrinth.com/data/VYRu7qmG/versions/nafMXhVc/observable-3.3.1.jar,mod,,
