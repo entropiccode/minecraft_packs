@@ -177,3 +177,5 @@ First development build of the next major update.
 ### Config Changes
 - StarterKit
     -- Starting Inventory changed, players now only start with an Eccentric Tome. Items added by mods re-enabled, meaning the Enigmatic Legacy starting items are once again accessible.
+- Oh the Biomes You'll Go
+    -- Removed Biomepedia button from inventory
